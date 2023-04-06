@@ -1,0 +1,15 @@
+#portfolio{
+    .portfolio_items{
+        text-align: center;
+        p{
+            font-size: 1rem;
+            color: $nav-color;
+        }
+        h2{
+            font-size: 3rem;
+            margin-bottom: 3rem !important;
+            color: $main-color;
+        }
+    }
+    
+}
